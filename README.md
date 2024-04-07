@@ -1,6 +1,8 @@
 # ungerer221.github.io
 the Deployed site for the theory project
 
+[site](https://ungerer221.github.io/)
+
 ## Deployed 
 this site was deployed onto git-pages 
 
@@ -13,6 +15,6 @@ ng Build
 
 after that I selected the project files from the dist file 
 
-<img src="">
+<img src="ReadmeAssets\Capture 03.PNG">
 
 Then I uploded those files into the git repository and then uploaded it.
