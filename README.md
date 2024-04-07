@@ -15,6 +15,6 @@ ng Build
 
 after that I selected the project files from the dist file 
 
-<img src="ReadmeAssets\Capture 03.PNG">
+<img src="">
 
 Then I uploded those files into the git repository and then uploaded it.
